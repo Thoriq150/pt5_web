@@ -37,7 +37,8 @@
 ![Screenshot (200)](https://github.com/Thoriq150/pt5_web/assets/115950790/2bc8592d-b3c2-4bf9-b321-a61a35581ffd)
 ![Screenshot (202)](https://github.com/Thoriq150/pt5_web/assets/115950790/9c8efcd9-129f-4538-9cfc-74780aacfac9)
 
-## Soal
+##  Soal
+
 ### Buat script untuk melakukan validasi pada isian form.
 ![Screenshot (203)](https://github.com/Thoriq150/pt5_web/assets/115950790/afd51fbb-f7b3-45f2-95b9-b8fa8a4fd4be)
 ![Screenshot (204)](https://github.com/Thoriq150/pt5_web/assets/115950790/0e7b75a7-7c24-47de-8623-3a67f404bff5)
